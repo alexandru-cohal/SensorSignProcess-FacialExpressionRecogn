@@ -1,0 +1,1 @@
+Run realtime-epoc.py for real-time classification of facial expressions. The Emotiv EPOC driver has to be installed.
